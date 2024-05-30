@@ -297,7 +297,6 @@ img {
 .icon-box-list {
   display: flex;
   gap: 24px;
-  margin-bottom: 32px;
   justify-content: center;
 }
 .icon {
