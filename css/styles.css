@@ -278,7 +278,7 @@ img {
 
 .team-item {
   text-align: center;
-  margin-top: 32px;
+  padding: 32px 0;
   margin-bottom: 8px;
 }
 
@@ -294,7 +294,7 @@ img {
   margin-bottom: 8px;
 }
 
-.icon-box {
+.icon-box-list {
   display: flex;
   gap: 24px;
   margin-bottom: 32px;
