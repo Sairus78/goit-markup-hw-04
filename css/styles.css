@@ -300,6 +300,9 @@ img {
   margin-bottom: 32px;
   justify-content: center;
 }
+.icon {
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
 
 .linc svg {
   fill: #f4f4fd;
@@ -318,7 +321,7 @@ img {
 }
 .linc:hover,
 .linc:focus {
-  background-color: #31d0aa;
+  background-color: #404bbf;
 }
 
 .portfolio-section {
@@ -441,6 +444,7 @@ img {
 .footer-icon {
   width: 40px;
   height: 40px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer-linc {
   width: 100%;
@@ -458,5 +462,5 @@ img {
 }
 .footer-linc:hover,
 .footer-linc:focus {
-  background-color: #404bbf;
+  background-color: #31d0aa;
 }
