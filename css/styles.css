@@ -298,6 +298,7 @@ img {
   display: flex;
   gap: 24px;
   margin-bottom: 32px;
+  justify-content: center;
 }
 
 .linc svg {
